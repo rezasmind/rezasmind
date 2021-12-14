@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/boredreza" target="blank"><img src="https://img.shields.io/twitter/follow/boredreza?logo=twitter&style=for-the-badge" alt="boredreza" /></a> </p>
 
-- 🔭 I’m currently working on **NIT-Class-attendance**
+- 🔭 I’m currently working on **IRTC**
 
-- 🌱 I’m currently learning **MERN Stack, Ai Engineering, Web Sec, Robotic, C/C++.**
+- 🌱 I’m currently learning **Smart Contract Development**
 
 - 👨‍💻 All of my projects are available at [https://rezaaghajani.ir](https://rezaaghajani.ir)
 
